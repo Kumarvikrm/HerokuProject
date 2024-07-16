@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "vikrams",
+  "info": {
+    "singularName": "vikram",
+    "pluralName": "vikrams",
+    "displayName": "Vikram"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Name": {
+      "type": "string",
+      "required": true
+    },
+    "email": {
+      "type": "email"
+    }
+  }
+}
